@@ -23,12 +23,12 @@ namespace NeosDesktopToolShortcutRemapper
             // rebind 2 to DevTip with BlueInspector V1.5.5
             toolRemapping.Add(
                 new Uri("neosrec:///G-Neos/Inventory/SpawnObjects/ShortcutTooltips/DevToolTip"),
-                new Uri("neosrec:///U-rhenium/R-8f37df65-51d5-4f25-9b8b-a36b211acdad")
+                new Uri("neosrec:///U-yoshi1123-/R-c79e9e6f-403f-4930-bdd2-01f6a990e851")
             );
-            // rebind 3 to LogixTip + LogixNodeMenuInjector
+            // rebind 3 to Desktop LogixTip + LogixNodeMenuInjector V1.0
             toolRemapping.Add(
                 new Uri("neosrec:///G-Neos/Inventory/SpawnObjects/ShortcutTooltips/LogixTip"),
-                new Uri("neosrec:///U-yoshi1123-/R-e653e245-4aad-421b-8e93-cc2dd4fddac2")
+                new Uri("neosrec:///U-yoshi1123-/R-80adbf5d-c6bc-496a-9c44-e849c1126f3b")
             );
             // rebind 5 to component clone
             toolRemapping.Add(
