@@ -20,10 +20,10 @@ namespace NeosDesktopToolShortcutRemapper
         private static Dictionary<Uri, Uri> toolRemapping = new Dictionary<Uri, Uri>();
 
         static NeosDesktopToolShortcutRemapper() {
-            // rebind 2 to DevTip with BlueInspector V1.5.5
+            // rebind 2 to DevTip with BlueInspector V1.5.7
             toolRemapping.Add(
                 new Uri("neosrec:///G-Neos/Inventory/SpawnObjects/ShortcutTooltips/DevToolTip"),
-                new Uri("neosrec:///U-yoshi1123-/R-c79e9e6f-403f-4930-bdd2-01f6a990e851")
+                new Uri("neosrec:///G-Shared-Project-rheni/R-961f022a-ea4f-4e13-85ad-44609293a874")
             );
             // rebind 3 to Desktop LogixTip + LogixNodeMenuInjector V1.0
             toolRemapping.Add(
